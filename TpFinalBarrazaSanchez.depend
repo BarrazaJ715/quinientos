@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1687052707 source:c:\users\jonie\desktop\lab 1\juego lab1\tpfinalbarrazasanchez\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+	"rlutil.h"
+	"unjugador.h"
+	"reglas.h"
+
+1685968259 c:\users\jonie\desktop\lab 1\juego lab1\tpfinalbarrazasanchez\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687052593 c:\users\jonie\desktop\lab 1\juego lab1\tpfinalbarrazasanchez\unjugador.h
+
+1686969710 c:\users\jonie\desktop\lab 1\juego lab1\tpfinalbarrazasanchez\reglas.h
+
+1688653829 source:c:\users\jonie\desktop\proyecto lab 1\juego lab1\tpfinalbarrazasanchez\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+	"rlutil.h"
+	"reglas.h"
+	"Puntuacion.h"
+	"unjugador.h"
+	"DosJugadores.h"
+	"menuPrincipal.h"
+
+1685968259 c:\users\jonie\desktop\proyecto lab 1\juego lab1\tpfinalbarrazasanchez\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1688667944 c:\users\jonie\desktop\proyecto lab 1\juego lab1\tpfinalbarrazasanchez\unjugador.h
+
+1688650777 c:\users\jonie\desktop\proyecto lab 1\juego lab1\tpfinalbarrazasanchez\reglas.h
+
+1688668109 c:\users\jonie\desktop\proyecto lab 1\juego lab1\tpfinalbarrazasanchez\menuprincipal.h
+
+1688665879 c:\users\jonie\desktop\proyecto lab 1\juego lab1\tpfinalbarrazasanchez\puntuacion.h
+
+1688667921 c:\users\jonie\desktop\proyecto lab 1\juego lab1\tpfinalbarrazasanchez\dosjugadores.h
+
+1688653829 source:c:\users\jonie\desktop\tpfinalbarrazasanchez\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+	"rlutil.h"
+	"reglas.h"
+	"Puntuacion.h"
+	"unjugador.h"
+	"DosJugadores.h"
+	"menuPrincipal.h"
+
+1685968259 c:\users\jonie\desktop\tpfinalbarrazasanchez\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1688650777 c:\users\jonie\desktop\tpfinalbarrazasanchez\reglas.h
+
+1688740257 c:\users\jonie\desktop\tpfinalbarrazasanchez\puntuacion.h
+
+1688736048 c:\users\jonie\desktop\tpfinalbarrazasanchez\unjugador.h
+
+1688736426 c:\users\jonie\desktop\tpfinalbarrazasanchez\dosjugadores.h
+
+1688738872 c:\users\jonie\desktop\tpfinalbarrazasanchez\menuprincipal.h
+
+1688653829 source:c:\users\jonie\desktop\primer cuatrimestre\tpfinalbarrazasanchez\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+	"rlutil.h"
+	"reglas.h"
+	"Puntuacion.h"
+	"unjugador.h"
+	"DosJugadores.h"
+	"menuPrincipal.h"
+
+1685968259 c:\users\jonie\desktop\primer cuatrimestre\tpfinalbarrazasanchez\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1688650777 c:\users\jonie\desktop\primer cuatrimestre\tpfinalbarrazasanchez\reglas.h
+
+1688741265 c:\users\jonie\desktop\primer cuatrimestre\tpfinalbarrazasanchez\puntuacion.h
+
+1688736048 c:\users\jonie\desktop\primer cuatrimestre\tpfinalbarrazasanchez\unjugador.h
+
+1688736426 c:\users\jonie\desktop\primer cuatrimestre\tpfinalbarrazasanchez\dosjugadores.h
+
+1689084456 c:\users\jonie\desktop\primer cuatrimestre\tpfinalbarrazasanchez\menuprincipal.h
+
